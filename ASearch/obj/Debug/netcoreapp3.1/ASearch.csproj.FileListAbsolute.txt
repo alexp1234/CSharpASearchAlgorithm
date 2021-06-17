@@ -1,0 +1,13 @@
+C:\Users\apickrell\source\repos\ASearch\ASearch\bin\Debug\netcoreapp3.1\ASearch.exe
+C:\Users\apickrell\source\repos\ASearch\ASearch\bin\Debug\netcoreapp3.1\ASearch.deps.json
+C:\Users\apickrell\source\repos\ASearch\ASearch\bin\Debug\netcoreapp3.1\ASearch.runtimeconfig.json
+C:\Users\apickrell\source\repos\ASearch\ASearch\bin\Debug\netcoreapp3.1\ASearch.runtimeconfig.dev.json
+C:\Users\apickrell\source\repos\ASearch\ASearch\bin\Debug\netcoreapp3.1\ASearch.dll
+C:\Users\apickrell\source\repos\ASearch\ASearch\bin\Debug\netcoreapp3.1\ASearch.pdb
+C:\Users\apickrell\source\repos\ASearch\ASearch\obj\Debug\netcoreapp3.1\ASearch.csprojAssemblyReference.cache
+C:\Users\apickrell\source\repos\ASearch\ASearch\obj\Debug\netcoreapp3.1\ASearch.AssemblyInfoInputs.cache
+C:\Users\apickrell\source\repos\ASearch\ASearch\obj\Debug\netcoreapp3.1\ASearch.AssemblyInfo.cs
+C:\Users\apickrell\source\repos\ASearch\ASearch\obj\Debug\netcoreapp3.1\ASearch.csproj.CoreCompileInputs.cache
+C:\Users\apickrell\source\repos\ASearch\ASearch\obj\Debug\netcoreapp3.1\ASearch.dll
+C:\Users\apickrell\source\repos\ASearch\ASearch\obj\Debug\netcoreapp3.1\ASearch.pdb
+C:\Users\apickrell\source\repos\ASearch\ASearch\obj\Debug\netcoreapp3.1\ASearch.genruntimeconfig.cache
